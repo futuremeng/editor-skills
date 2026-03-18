@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.4.0 - 2026-03-18
+
+- Add `Example I/O / 示例输入输出` section to all 22 skills.
+- Add `scripts/lint_skills.py` for frontmatter and section validation.
+- Add `docs/skills-catalog.md` for workflow-oriented skill discovery.
+- Update README and CONTRIBUTING with quality check guidance.
+
 ## 0.3.0 - 2026-03-18
 
 - Add 4 collaboration and governance skills:

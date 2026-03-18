@@ -68,6 +68,13 @@ Option B: add market source into config
 - See CONTRIBUTING.md for contribution workflow.
 - See CHANGELOG.md for release history.
 - See skills/INDEX.md for current index inventory.
+- See docs/skills-catalog.md for workflow-oriented skill navigation.
+
+## Quality Checks
+
+Run local lint before opening a PR:
+
+python3 scripts/lint_skills.py
 
 ## License
 

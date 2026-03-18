@@ -34,3 +34,7 @@ This repository currently hosts prompt-only skills for editorial workflows.
 - Explain why this skill is needed.
 - Include one example trigger phrase in English and Chinese.
 - Mention backward compatibility risks if any.
+
+## Validation
+
+- Run `python3 scripts/lint_skills.py` before submitting.
