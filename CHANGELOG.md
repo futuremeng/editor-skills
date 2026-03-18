@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.6.0 - 2026-03-18
+
+- Upgrade `scripts/lint_skills.py` with three new CLI flags:
+  - `--fix`: auto-append default content for missing recommended sections (idempotent; re-lints after applying fixes).
+  - `--changed-only`: only lint skill files with uncommitted git changes (fast path for CI pre-commit hooks).
+  - `--ci-summary FILE`: write a Markdown summary table to FILE for CI annotation alongside normal output.
+- Help text for all existing and new flags updated.
+
 ## 0.5.1 - 2026-03-18
 
 - Add `## Prompt Contract / 提示约定` to 14 skills that previously emitted lint warnings.
