@@ -69,12 +69,25 @@ Option B: add market source into config
 - See CHANGELOG.md for release history.
 - See skills/INDEX.md for current index inventory.
 - See docs/skills-catalog.md for workflow-oriented skill navigation.
+- See docs/skills-matrix.md for metadata and section coverage matrix.
 
 ## Quality Checks
 
 Run local lint before opening a PR:
 
 python3 scripts/lint_skills.py
+
+Strict mode (warnings treated as failures):
+
+python3 scripts/lint_skills.py --strict-warnings
+
+JSON output for CI parsing:
+
+python3 scripts/lint_skills.py --json
+
+Regenerate skills matrix:
+
+python3 scripts/generate_skills_matrix.py
 
 ## License
 

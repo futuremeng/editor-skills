@@ -38,3 +38,5 @@ This repository currently hosts prompt-only skills for editorial workflows.
 ## Validation
 
 - Run `python3 scripts/lint_skills.py` before submitting.
+- Use `python3 scripts/lint_skills.py --strict-warnings` when you need a stricter gate.
+- Run `python3 scripts/generate_skills_matrix.py` after adding or editing skills.

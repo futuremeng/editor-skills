@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.5.0 - 2026-03-18
+
+- Upgrade `scripts/lint_skills.py` with:
+  - severity levels (`error` / `warn`)
+  - JSON output (`--json`)
+  - strict warning gate (`--strict-warnings`)
+- Add `scripts/generate_skills_matrix.py` to auto-generate skills matrix docs.
+- Add generated docs page: `docs/skills-matrix.md`.
+- Update README and CONTRIBUTING with new quality workflow commands.
+
 ## 0.4.0 - 2026-03-18
 
 - Add `Example I/O / 示例输入输出` section to all 22 skills.
