@@ -20,5 +20,9 @@ Current skills under this index path:
 16. citation-reference-check
 17. timeline-fact-consistency
 18. release-readiness-check
+19. proofreading-decision-log
+20. review-handoff-packager
+21. proofread-style-enforcer
+22. policy-sensitive-review
 
 All skills are prompt-only in current phase.

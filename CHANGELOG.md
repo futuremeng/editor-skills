@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.3.0 - 2026-03-18
+
+- Add 4 collaboration and governance skills:
+  - proofreading-decision-log
+  - review-handoff-packager
+  - proofread-style-enforcer
+  - policy-sensitive-review
+- Expand total skill count from 18 to 22.
+
 ## 0.2.0 - 2026-03-18
 
 - Add 6 advanced consistency and release-gate skills:
