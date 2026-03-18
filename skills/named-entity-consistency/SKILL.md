@@ -66,3 +66,10 @@ Output example:
 - 结果：结构化且简洁的处理结果
 - 重点：关键发现与优先处理项
 - 后续：需人工确认的未决事项
+
+## Prompt Contract / 提示约定
+
+- Keep recommendations conservative and traceable.
+- Separate confirmed findings from uncertain assumptions.
+- Preserve original intent unless explicit rewrite is requested.
+- If confidence is low, provide options and mark review-required items.

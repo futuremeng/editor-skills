@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.5.1 - 2026-03-18
+
+- Add `## Prompt Contract / 提示约定` to 14 skills that previously emitted lint warnings.
+- `python3 scripts/lint_skills.py --strict-warnings` now passes for all 22 skills.
+
 ## 0.5.0 - 2026-03-18
 
 - Upgrade `scripts/lint_skills.py` with:
