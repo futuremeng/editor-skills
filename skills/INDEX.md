@@ -14,5 +14,11 @@ Current skills under this index path:
 10. proofreading-report-merge
 11. chapter-quality-gate
 12. change-risk-review
+13. bilingual-consistency-check
+14. numeric-unit-consistency
+15. named-entity-consistency
+16. citation-reference-check
+17. timeline-fact-consistency
+18. release-readiness-check
 
 All skills are prompt-only in current phase.
